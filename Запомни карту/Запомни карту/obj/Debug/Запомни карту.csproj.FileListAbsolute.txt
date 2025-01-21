@@ -1,0 +1,10 @@
+C:\Users\APRO\source\repos\Запомни карту\Запомни карту\bin\Debug\Запомни карту.exe.config
+C:\Users\APRO\source\repos\Запомни карту\Запомни карту\bin\Debug\Запомни карту.exe
+C:\Users\APRO\source\repos\Запомни карту\Запомни карту\bin\Debug\Запомни карту.pdb
+C:\Users\APRO\source\repos\Запомни карту\Запомни карту\obj\Debug\Запомни карту.csproj.AssemblyReference.cache
+C:\Users\APRO\source\repos\Запомни карту\Запомни карту\obj\Debug\Запомни_карту.Form1.resources
+C:\Users\APRO\source\repos\Запомни карту\Запомни карту\obj\Debug\Запомни_карту.Properties.Resources.resources
+C:\Users\APRO\source\repos\Запомни карту\Запомни карту\obj\Debug\Запомни карту.csproj.GenerateResource.cache
+C:\Users\APRO\source\repos\Запомни карту\Запомни карту\obj\Debug\Запомни карту.csproj.CoreCompileInputs.cache
+C:\Users\APRO\source\repos\Запомни карту\Запомни карту\obj\Debug\Запомни карту.exe
+C:\Users\APRO\source\repos\Запомни карту\Запомни карту\obj\Debug\Запомни карту.pdb
